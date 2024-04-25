@@ -40,10 +40,10 @@ To use this script, you need to have the image files and a JSON data file in the
 
 2. **Run the script:**
    ```bash
-   python output.py
+   python main.py
    ```
 
-   Replace `output.py` with the actual name of your Python script.
+   Replace `main.py` with the actual name of your Python script.
 
 3. **View the generated image:**
    The script outputs the composite image in the project's root directory, named `gradient_flowers_composite_image.png`.
