@@ -1,0 +1,24 @@
+{
+    "columns": [
+        "Medicine",
+        "Dosage"
+    ],
+    "data": [
+        [
+            "Abciximab",
+            "Once daily in the morning"
+        ],
+        [
+            "Vomilast",
+            "Twice daily, morning and night"
+        ],
+        [
+            "Zoclar 500",
+            "Once daily in the morning"
+        ],
+        [
+            "Gestakind 10/SR",
+            "Once nightly"
+        ]
+    ]
+}
